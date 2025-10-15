@@ -1,0 +1,3 @@
+Buna Rust, la revedere C++.
+Rust este un limbaj rapid si sigur.
+Invat Rust cu placere.
